@@ -1,0 +1,30 @@
+.container {
+margin: 0 auto;
+text-align: center;
+width: 400px;
+height: 100px;
+position: relative;
+top: 150px;
+}
+
+.title {
+color: turquoise;
+letter-spacing: 10px;
+-webkit-text-stroke: 0.5px black;
+display: inline-block;
+}
+
+.search {
+display: inline-block;
+}
+
+img {
+float: left;
+padding-right: 5px;
+}
+
+.footer {
+position: fixed;
+bottom: 0;
+right: 0;
+}
